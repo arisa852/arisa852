@@ -1,8 +1,8 @@
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
-
 window.onload = function(){
-	init();
+init();
 }
+	
 
 function init() {
 	canvas = document.getElementById("canvas");
