@@ -396,7 +396,7 @@ lib.properties = {
 	height: 600,
 	fps: 24,
 	color: "#FFFFFF",
-	opacity: 1.00,
+	opacity: 0.00,
 	manifest: [
 		{src:"images/動畫_atlas_1.png", id:"動畫_atlas_1"}
 	],
